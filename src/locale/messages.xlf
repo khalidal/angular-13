@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="2573415356387978250" datatype="html">
+        <source>Without connection we can not load anything!</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6698492973188194377" datatype="html">
+        <source>Delete hero</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/hero/components/hero-remove/hero-remove.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7515883357904500238" datatype="html">
+        <source>Are you sure?</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/hero/components/hero-remove/hero-remove.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3542042671420335679" datatype="html">
+        <source>No</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/hero/components/hero-remove/hero-remove.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2807800733729323332" datatype="html">
+        <source>Yes</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/hero/components/hero-remove/hero-remove.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2304191367106977039" datatype="html">
+        <source>Hero detail</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/hero/pages/hero-detail-page/hero-detail-page.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1788401593656540135" datatype="html">
+        <source> Anchor the hero
+</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/hero/pages/hero-detail-page/hero-detail-page.component.html</context>
+          <context context-type="linenumber">20,22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3136098728692346293" datatype="html">
+        <source> Go back
+</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/hero/pages/hero-detail-page/hero-detail-page.component.html</context>
+          <context context-type="linenumber">23,25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7822748941834007534" datatype="html">
+        <source>My heroes</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/hero/pages/my-heroes-page/my-heroes-page.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5787679849241839604" datatype="html">
+        <source> No heroes yet, try to create one in the right side! </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/hero/pages/my-heroes-page/my-heroes-page.component.html</context>
+          <context context-type="linenumber">3,5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3737543504924228701" datatype="html">
+        <source>Create a hero</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/hero/pages/my-heroes-page/my-heroes-page.component.html</context>
+          <context context-type="linenumber">41</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5674286808255988565" datatype="html">
+        <source>Create</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/hero/pages/my-heroes-page/my-heroes-page.component.html</context>
+          <context context-type="linenumber">51</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nameWithPalindrome" datatype="html">
+        <source>Name (Palindrome?)</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/hero/pages/my-heroes-page/my-heroes-page.component.html</context>
+          <context context-type="linenumber">67</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4042902315677630519" datatype="html">
+        <source> Name is required </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/hero/pages/my-heroes-page/my-heroes-page.component.html</context>
+          <context context-type="linenumber">72</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/hero/pages/my-heroes-page/my-heroes-page.component.html</context>
+          <context context-type="linenumber">88</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3956003791373316639" datatype="html">
+        <source> The field is too long </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/hero/pages/my-heroes-page/my-heroes-page.component.html</context>
+          <context context-type="linenumber">73,75</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="realName" datatype="html">
+        <source>Alter ego</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/hero/pages/my-heroes-page/my-heroes-page.component.html</context>
+          <context context-type="linenumber">83</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5854857311107461425" datatype="html">
+        <source> The field is too long. Required length: <x id="INTERPOLATION" equiv-text="{{ alterEgo.errors[&apos;maxlength&apos;].requiredLength }}"/>. Current: <x id="INTERPOLATION_1" equiv-text="{{ alterEgo.errors[&apos;maxlength&apos;].actualLength }}"/> </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/hero/pages/my-heroes-page/my-heroes-page.component.html</context>
+          <context context-type="linenumber">89,93</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7941428823403788384" datatype="html">
+        <source> Create </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/hero/pages/my-heroes-page/my-heroes-page.component.html</context>
+          <context context-type="linenumber">102,104</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1564286548074479747" datatype="html">
+        <source>An error has ocurred</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/hero/pages/my-heroes-page/my-heroes-page.component.html</context>
+          <context context-type="linenumber">105</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2110070655696455995" datatype="html">
+        <source>Heroes 1 and 2</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/hero/pages/my-heroes-page/my-heroes-page.component.html</context>
+          <context context-type="linenumber">110</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2119941266201013887" datatype="html">
+        <source>404 Error</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/root/pages/error404-page/error404-page.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6030015613147610409" datatype="html">
+        <source>May the force be with you</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/root/pages/error404-page/error404-page.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2920363577418391924" datatype="html">
+        <source>Heroes published</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/root/pages/home-page/home-page.component.html</context>
+          <context context-type="linenumber">4,5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="771984667796132675" datatype="html">
+        <source>Angular Example App</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/root/shared/footer/footer.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8364309938383915497" datatype="html">
+        <source> Home </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/root/shared/header/header.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6113578982295417190" datatype="html">
+        <source>My Heroes</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/root/shared/header/header.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="744750008248382275" datatype="html">
+        <source> Sign Up </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/root/shared/header/header.component.html</context>
+          <context context-type="linenumber">36,38</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4166166242155319722" datatype="html">
+        <source> Log In </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/root/shared/header/header.component.html</context>
+          <context context-type="linenumber">39,41</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5158553843045971211" datatype="html">
+        <source>Look for a hero!</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/root/shared/search-bar/search-bar.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
